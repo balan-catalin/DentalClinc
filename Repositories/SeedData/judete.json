@@ -1,0 +1,170 @@
+[
+  {
+    "cod": "AB",
+    "judet": "Alba"
+  },
+  {
+    "cod": "AG",
+    "judet": "Argeș"
+  },
+  {
+    "cod": "AR",
+    "judet": "Arad"
+  },
+  {
+    "cod": "B",
+    "judet": "București"
+  },
+  {
+    "cod": "BC",
+    "judet": "Bacău"
+  },
+  {
+    "cod": "BH",
+    "judet": "Bihor"
+  },
+  {
+    "cod": "BN",
+    "judet": "Bistrița-Năsăud"
+  },
+  {
+    "cod": "BR",
+    "judet": "Brăila"
+  },
+  {
+    "cod": "BT",
+    "judet": "Botoșani"
+  },
+  {
+    "cod": "BV",
+    "judet": "Brașov"
+  },
+  {
+    "cod": "BZ",
+    "judet": "Buzău"
+  },
+  {
+    "cod": "CJ",
+    "judet": "Cluj"
+  },
+  {
+    "cod": "CL",
+    "judet": "Călărași"
+  },
+  {
+    "cod": "CS",
+    "judet": "Caraș-Severin"
+  },
+  {
+    "cod": "CT",
+    "judet": "Constanța"
+  },
+  {
+    "cod": "CV",
+    "judet": "Covasna"
+  },
+  {
+    "cod": "DB",
+    "judet": "Dâmbovița"
+  },
+  {
+    "cod": "DJ",
+    "judet": "Dolj"
+  },
+  {
+    "cod": "GJ",
+    "judet": "Gorj"
+  },
+  {
+    "cod": "GL",
+    "judet": "Galați"
+  },
+  {
+    "cod": "GR",
+    "judet": "Giurgiu"
+  },
+  {
+    "cod": "HD",
+    "judet": "Hunedoara"
+  },
+  {
+    "cod": "HR",
+    "judet": "Harghita"
+  },
+  {
+    "cod": "IF",
+    "judet": "Ilfov"
+  },
+  {
+    "cod": "IL",
+    "judet": "Ialomița"
+  },
+  {
+    "cod": "IS",
+    "judet": "Iași"
+  },
+  {
+    "cod": "MH",
+    "judet": "Mehedinți"
+  },
+  {
+    "cod": "MM",
+    "judet": "Maramureș"
+  },
+  {
+    "cod": "MS",
+    "judet": "Mureș"
+  },
+  {
+    "cod": "NT",
+    "judet": "Neamț"
+  },
+  {
+    "cod": "OT",
+    "judet": "Olt"
+  },
+  {
+    "cod": "PH",
+    "judet": "Prahova"
+  },
+  {
+    "cod": "SB",
+    "judet": "Sibiu"
+  },
+  {
+    "cod": "SJ",
+    "judet": "Sălaj"
+  },
+  {
+    "cod": "SM",
+    "judet": "Satu-Mare"
+  },
+  {
+    "cod": "SV",
+    "judet": "Suceava"
+  },
+  {
+    "cod": "TL",
+    "judet": "Tulcea"
+  },
+  {
+    "cod": "TM",
+    "judet": "Timiș"
+  },
+  {
+    "cod": "TR",
+    "judet": "Teleorman"
+  },
+  {
+    "cod": "VL",
+    "judet": "Vâlcea"
+  },
+  {
+    "cod": "VN",
+    "judet": "Vrancea"
+  },
+  {
+    "cod": "VS",
+    "judet": "Vaslui"
+  }
+]
